@@ -1,1 +1,1 @@
-My first landing page, buildign a website
+My first landing page, building a website
